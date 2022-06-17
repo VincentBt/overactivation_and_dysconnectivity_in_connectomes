@@ -1,6 +1,6 @@
 # overactivation_and_dysconnectivity_in_connectomes
 
-Python implementation (with interactive code) of the article [Circular Inference predicts non-uniform overactivation and dysconnectivity in brain-wide connectomes. Bouttier, Duttagupta, Denève, and Jardri. Schizophrenia Research, 2021]
+Python implementation (with interactive code) of the article “Circular inference predicts nonuniform overactivations and dysconnectivity in brain-wide connectomes”; Bouttier, Duttagupta, Denève, and Jardri; Schizophrenia Research, 2021.
 
 The file compute_effects_CI_vs_BP.py allows to produce simulations (example: 'python compute_effects_CI_vs_BP.py modular_SW'). 
 
